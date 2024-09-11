@@ -1,7 +1,7 @@
 
 # Myanmar Football Dataset (General Football Knowledge) for NLP Research and LLM Development
 
-[](image.png)
+![](image.png)
 
 ### Dataset Description
 
