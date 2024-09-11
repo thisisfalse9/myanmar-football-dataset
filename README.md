@@ -1,6 +1,8 @@
 
 # Myanmar Football Dataset (General Football Knowledge) for NLP Research and LLM Development
 
+[](image.png)
+
 ### Dataset Description
 
 This dataset contains essential knowledge about football in the Burmese language, designed for Natural Language Processing (NLP) research and Large Language Model (LLM) development. It includes definitions and explanations of key football terms, rules, and scenarios in football that are important for understanding the game. The data is especially useful for researchers working on Myanmar language NLP models and football-related applications.
