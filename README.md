@@ -29,7 +29,7 @@ The dataset is available on multiple platforms:
 
 ### Preprint
 
-A detailed description and analysis of this dataset can be found in the preprint document: [Football Data Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952385).
+A detailed description and analysis of this dataset can be found in the preprint document: [Myanmar Football Dataset](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952385).
 
 ### Acknowledgements
 
